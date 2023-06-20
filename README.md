@@ -2,8 +2,7 @@
 
 https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening/data
 
-결과 구글드라이브 링크
-
+## 발표 자료
 <img width="518" alt="스크린샷 2023-06-20 오후 3 02 11" src="https://github.com/thdefn/AIproj2022/assets/80521474/024a2022-d738-48b1-8b5b-5a2e18b2def6">
 
 <img width="520" alt="스크린샷 2023-06-20 오후 3 02 27" src="https://github.com/thdefn/AIproj2022/assets/80521474/eb4568ef-8671-45be-8cac-0fb387dfa1fa">
